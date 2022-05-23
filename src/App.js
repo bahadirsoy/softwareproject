@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 //import components
 import Navbar from './components/navbar/navbar.component';
+import LoginPage from './pages/loginpage/loginpage';
 
 function App() {
   return (

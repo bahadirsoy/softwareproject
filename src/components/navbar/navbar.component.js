@@ -20,10 +20,6 @@ function Navbar(){
                     </button>
                 </span>
         
-                <span className="help">
-                    <a href="https://www.youtube.com/watch?v=wXd_BFZvaQc&ab_channel=DilaraAKSOY" className="fas fa-question-circle"></a>
-                </span>
-        
                 <span className="country">
                     <select>
                         <option value="Antalya">Antalya</option>
