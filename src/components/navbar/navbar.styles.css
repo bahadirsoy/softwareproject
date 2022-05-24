@@ -176,3 +176,9 @@ nav {
   .dropdown:hover .dropdown-content {display: block;}
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {opacity: 0.7;}
+
+
+  /*  My codes  */
+  .mb10{
+    margin-bottom: 10px;
+  }
